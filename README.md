@@ -38,7 +38,7 @@
 
 **Backend & Frameworks**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,dotnet&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
 </p>
 
 **Databases**  
